@@ -1,4 +1,3 @@
-# JasonAZ583.github.io
 Jason Zaruma
 
 1000 Morris Ave Union, NJ
@@ -36,7 +35,7 @@ Provided invoices
 
 Monitored multiple job-sites
 
-##Express Factory Outlet, Elizabeth, NJ - Store Associate
+## Express Factory Outlet, Elizabeth, NJ - Store Associate
 
 July 2021 - PRESENT
 
@@ -45,4 +44,3 @@ Store product recovery
 Providing customer service
 Store maintenance 
 
-# 

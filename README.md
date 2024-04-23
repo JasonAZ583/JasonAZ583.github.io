@@ -11,8 +11,7 @@ zarumaja@kean.edu
 Driven Information Technology-Computer Science student to earn a B.S. degree in Computer Science. Proficient in Java, and adept with Microsoft operating systems; seeking avenues to apply and enhance skills in a Software Engineering environment.
 
 # Education
-Kean University, Union, NJ
-
+### Kean University, Union, NJ
 Bachelor of Science in Information Technology-Cybersecurity, May 2026
 # Courses
 Relevant Coursework: Data Structures, Discrete Structures, Computer Organization and Architecture 

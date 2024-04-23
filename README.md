@@ -10,7 +10,14 @@ zarumaja@kean.edu
 Driven Information Technology-Computer Science student to earn a B.S. degree in Computer Science. Proficient in Java, and adept with Microsoft operating systems; seeking avenues to apply and enhance skills in a Software Engineering environment.
 
 # Education
-### Kean University, Union, NJ
+### Kean University, Union County, NJ - Full Time Student
+#### September 2022 - Present 
+- Full-time student pursuing Bachelor’s Degree in B.S Computer Science
+  
+- GPA 3.1 (out of 4.0 scale)
+  
+- Graduation expected May 2026
+
 Bachelor of Science in Information Technology - Computer Science, Spring 2026
 # Courses
 Relevant Coursework: Computer Programming, Data Structures, Discrete Structures, Computer Organization and Architecture 

@@ -18,8 +18,14 @@ Driven Information Technology-Computer Science student to earn a B.S. degree in 
   
 - Graduation expected May 2026
 
-# Courses
-Relevant Coursework: Computer Programming, Data Structures, Discrete Structures, Computer Organization and Architecture 
+# Relevant Coursework
+- Computer Programming
+  
+- Data Structures
+  
+- Discrete Structures
+  
+- Computer Organization and Architecture 
 
 # Experience
 
@@ -43,9 +49,9 @@ Relevant Coursework: Computer Programming, Data Structures, Discrete Structures,
 
 - Providing customer service
 # Skills
-- Java Programming
+- Java Language Programming
 
-- Assembly Language
+- Assembly Language Programming
 
 - Proficient in using Windows OS
 

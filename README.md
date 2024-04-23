@@ -30,13 +30,13 @@ Programming Group Project - Radon Exposure Detector (Fall 2022)
 
 # Experience
 
-Crist Construction, Newark, NJ - March 2020 - June 2021
+##Crist Construction, Newark, NJ - March 2020 - June 2021
 
 Provided invoices
 
 Monitored multiple job-sites
 
-Express Factory Outlet, Elizabeth, NJ - Store Associate
+##Express Factory Outlet, Elizabeth, NJ - Store Associate
 
 July 2021 - PRESENT
 

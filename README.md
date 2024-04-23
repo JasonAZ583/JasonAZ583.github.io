@@ -1,4 +1,4 @@
-Jason Zaruma
+# Jason Zaruma
 
 1000 Morris Ave Union, NJ
 
@@ -6,26 +6,26 @@ Jason Zaruma
 
 zarumaja@kean.edu
 
-# Objective
+## Objective
 Driven Information Technology-Computer Science student to earn a B.S. degree in Computer Science. Proficient in Java, and adept with Microsoft operating systems; seeking avenues to apply and enhance skills in a Software Engineering environment.
 
-# Education
-### Kean University, Union County, NJ - Full Time Student
-#### September 2022 - Present 
+## Education
+#### Kean University, Union County, NJ - Full Time Student
+##### September 2022 - Present 
 - Full-time student pursuing Bachelor’s Degree in B.S Computer Science
   
 - GPA 3.1 (out of 4.0 scale)
   
 - Graduation expected May 2026
 
-# Courses
+## Courses
 Relevant Coursework: Computer Programming, Data Structures, Discrete Structures, Computer Organization and Architecture 
 
-# Experience
+## Experience
 
-### Crist Construction, Newark, NJ - Co-Manager
+#### Crist Construction, Newark, NJ - Co-Manager
 
-#### March 2020 - June 2021
+##### March 2020 - June 2021
 
 - Oversaw job site projects
 
@@ -33,16 +33,16 @@ Relevant Coursework: Computer Programming, Data Structures, Discrete Structures,
 
 - In charge of workers' safety and company vehicles
 
-### Express Factory Outlet, Elizabeth, NJ - Store Sales Leader
+#### Express Factory Outlet, Elizabeth, NJ - Store Sales Leader
 
-#### July 2021 - PRESENT
+##### July 2021 - PRESENT
 
 - Led retail staff on multiple work tasks
 
 - Interpersonal skills
 
 - Providing customer service
-# Skills
+## Skills
 - Java Programming
 
 - Assembly Language
@@ -51,7 +51,7 @@ Relevant Coursework: Computer Programming, Data Structures, Discrete Structures,
 
 - Proficient in using Eclipse workspace, LC-3 Simulator, and Visual Studio Code
 
-# Projects
+## Projects
 
 - Programming Group Project - Radon Exposure Detector (Fall 2022)
 

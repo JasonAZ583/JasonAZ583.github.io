@@ -2,7 +2,6 @@
 Jason Zaruma
 
 1000 Morris Ave Union, NJ
-
 973-277-4301
 
 zarumaja@kean.edu

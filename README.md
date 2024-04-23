@@ -48,7 +48,9 @@ Driven Information Technology-Computer Science student to earn a B.S. degree in 
 - Interpersonal skills
 
 - Providing customer service
+
 # Skills
+
 - Java Language Programming
 
 - Assembly Language Programming

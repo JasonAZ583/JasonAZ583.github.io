@@ -18,17 +18,8 @@ Driven Information Technology-Computer Science student to earn a B.S. degree in 
   
 - Graduation expected May 2026
 
-Bachelor of Science in Information Technology - Computer Science, Spring 2026
 # Courses
 Relevant Coursework: Computer Programming, Data Structures, Discrete Structures, Computer Organization and Architecture 
-# Skills
-Java Programming
-
-Assembly Language
-
-Proficient in using Windows OS
-
-Proficient in using Eclipse workspace, LC-3 Simulator, and Visual Studio Code
 
 # Experience
 
@@ -51,10 +42,18 @@ Proficient in using Eclipse workspace, LC-3 Simulator, and Visual Studio Code
 - Interpersonal skills
 
 - Providing customer service
+# Skills
+- Java Programming
+
+- Assembly Language
+
+- Proficient in using Windows OS
+
+- Proficient in using Eclipse workspace, LC-3 Simulator, and Visual Studio Code
 
 # Projects
 
-Programming Group Project - Radon Exposure Detector (Fall 2022)
+- Programming Group Project - Radon Exposure Detector (Fall 2022)
 
 
 

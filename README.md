@@ -39,7 +39,7 @@ Driven Information Technology-Computer Science student to earn a B.S. degree in 
 
 - In charge of workers' safety and company vehicles
 
-### Express Factory Outlet, Elizabeth, NJ - Store Sales Leader
+### Express Factory Outlet, Elizabeth, NJ - Store Associate
 
 #### July 2021 - PRESENT
 
